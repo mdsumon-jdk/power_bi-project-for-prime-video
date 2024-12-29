@@ -1,1 +1,1 @@
-# power_bi-project-for-prime-video
+# power_bi-dashboard-project
